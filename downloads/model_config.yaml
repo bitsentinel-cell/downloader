@@ -1,0 +1,7 @@
+name: craft_text_detection
+config_type: model
+text_threshold: 0.7
+link_threshold: 0.5
+low_text: 0.2
+poly: false
+estimate_num_chars: false
